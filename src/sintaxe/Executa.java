@@ -49,8 +49,8 @@ public class Executa {
 //		objeto.switchCase("Monday");
 		
 		
-		ContaCorrente cc = new ContaCorrente();
-		System.out.println(cc.cliente);
+		//ContaCorrente cc = new ContaCorrente();
+		//System.out.println(cc.cliente);
 		
 		
 	}
